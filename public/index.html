@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcard Trainer</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="app-header">
+      <h1>Flashcard Trainer</h1>
+    </header>
+    <main class="app">
+      <section class="controls">
+        <div class="control-group">
+          <label for="file-select">Deck</label>
+          <select id="file-select" aria-label="Flashcard deck"></select>
+        </div>
+        <div class="control-group">
+          <label for="chapter-select">Chapter</label>
+          <select id="chapter-select" aria-label="Chapter"></select>
+        </div>
+      </section>
+
+      <section class="card-area" aria-live="polite">
+        <div class="card" id="card">
+          <p class="card-label" id="card-label">Word</p>
+          <p class="card-content" id="card-content">Select a deck to begin</p>
+        </div>
+        <button class="definition-button" id="toggle-definition" disabled>
+          Show Definition
+        </button>
+      </section>
+
+      <nav class="navigation" aria-label="Card navigation">
+        <button id="prev-card" class="nav-button" disabled>Previous</button>
+        <span class="card-counter" id="card-counter"></span>
+        <button id="next-card" class="nav-button" disabled>Next</button>
+      </nav>
+    </main>
+
+    <template id="card-template">
+      <div class="card">
+        <p class="card-label" id="card-label"></p>
+        <p class="card-content" id="card-content"></p>
+      </div>
+    </template>
+
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
