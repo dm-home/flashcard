@@ -11,6 +11,15 @@ let cards = [];
 let currentIndex = 0;
 let showingDefinition = false;
 
+function shuffleCards(items) {
+  const shuffled = [...items];
+  for (let i = shuffled.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 async function fetchJson(url) {
   const response = await fetch(url);
   if (!response.ok) {
@@ -62,7 +71,7 @@ function updateCard() {
 }
 
 function resetState(newCards) {
-  cards = newCards;
+  cards = shuffleCards(newCards);
   currentIndex = 0;
   showingDefinition = false;
   updateCard();
