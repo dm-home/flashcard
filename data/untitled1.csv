@@ -1,176 +1,176 @@
-word,definition,chapter
-Arthr-,joint or speech,1
-Bronch-,bronchus,1
-Cardi-,heart,1
-Derm or dermat,skin,1
-Gastro-,stomach,1
-Ger or gernot,aged,1
-Hem or hemato,blood,1
-Hep or hepat,liver,1
-Neur-,nerve cell or nervous system,1
-Oste-,bone,1
-Path-,disease,1
-psych-,mind,1
-mast-,breast,1
-nat-,birth,1
-Suffixes (S),-Always comes at the end of the word -Adds meaning to the word -Not all terms have a suffix,1
-Four Functional Categories of Suffixes,"1. Describe a medical condition 2. Describe diagnostic terms, tests, or surgical procedures 3. Signify a medical specialty or specialist 4. Convert a noun to an adjective",1
--algia,pain,1
--dynia,pain,1
--emia,blood,1
--ism,condition of,1
--itis,inflammation,1
--malacia,softening,1
--megaly,enlargement,1
--oma,tumor,1
--osis,condition of,1
--penia,reduction in size/quantity,1
--plegia,paralysis,1
--pnea,breathing,1
--porosis,porous condition,1
--ptosis,downward displacement,1
--rrhage,flowing forth,1
--rrhea,discharge,1
--spasm,muscular contraction,1
--edema,excessive fluid,1
--centesis,surgical puncture,1
--ectomy,surgical removal,1
-"-gen, -genic, -genesis","origin, producing",1
--gram,record,1
--graph,device for recording,1
--graphy,act of recording,1
--meter,device for measuring,1
--plasty,surgical repair,1
--scope,device for viewing,1
--tomy,incision,1
--desis,surgical binding,1
--ian,specialist,1
--iatrics,medical specialist,1
--iatry or -ics,medical specialty,1
--ist,specialist in a field of study,1
--logy,study of,1
-Converting a noun to adjective,-replace x with c (ex. appendix; appendices) -drop y & add -ic (ex. psychiatry; psychiatric hospital) -drop e & add ic (ex. arthroscope; arthroscopic surgery) -drop s (ex. pediatrics; pediatric medicine),1
-"-ac, -al, -ar, -ia, -ic, -ory",pertaining to,1
--cyte,cell,1
-Prefixes (P),Always comes at beginning of the word,1
-Categories of Prefixes,1. Time or speed 2. Direction 3. Position 4. Size or number,1
-"ante-, pre-",before,1
-anti-,against,1
-brady-,slow,1
-neo-,new,1
-post-,after,1
-tachy-,fast,1
-"hyper-, supra-","above, beyond normal, excessive",1
-hypo-,"below, below normal",1
-ab-,"away from, outside of, beyond",1
-ad-,"toward, near to",1
-"con-, sym-, syn-",with,1
-contra-,against,1
-dia-,"across, through",1
-"ec-, ecto, ex-, exo-","outside, out, away from",1
-"en-, endo-, intra-","toward, near to, within, inner",1
-endo-,within,1
-epi-,"upon, subsequent to",1
-extra-,beyond,1
-Infra-,inside or below,1
-Inter-,between,1
-Intra-,"inside, within",1
-meso-,middle,1
-meta-,beyond,1
-pan-,"all, everywhere",1
-para-,"alongside, like",1
-retro-,"backward, behind",1
-bi- or di-,two,1
-dipl-,twice,1
-"hemi-, semi-",half,1
-macro-,big,1
-micro-,small,1
-mono-,one,1
-olig/o,a few,1
-poly-,many,1
-quadri-,four,1
-tetra-,four,1
-tri-,three,1
-uni-,one,1
-"a-,an-","no, not, without",1
-"anti-, contra-",against,1
-cyan-,blue,1
-dys-,"painful, difficult",1
-Combining Form,- Contains the word root and a vowel - Vowel usually to facilitate pronunciation - The vowel is called the 'combining vowel' (CV) - Frequently the vowel is an 'o' - Combining vowel is used between two word roots - Used between a root and a suffix when the suffix begins with a consonant,1
-Singular and Plural Endings,"-Ends in ""a"", make plural by adding ""e"" to the term. Ex. vertebra->vertebrae or scapula->scapulae -Ends in ""ax"", change the ""ax"" to ""aces"". Ex. thorax->thoraces -Ends in ""is"", change the ""i"" to an ""e"" for plural. Ex. neurosis->neuroses -Ends in ""ix"" or ""ex"", change to ""ices"". Ex. cervix->cervices -Ends in ""um"", change to ""a"". Ex. bacterium->bacteria -Ends in ""us"", change to ""i"". Ex. calculus->calculi -Ends in ""y"", change to ""ies"". Ex. ovary->ovaries",1
-Levels of Organization,1. Cellular 2. Tissue 3. Organ 4. Body Systems,1
-Cells,Basic unit of all living organisms Common elements: -cell membrane -nucleus -chromosomes -cytoplasm,1
-Tissues,1. Muscle- both VOLUNTARY and INVOLUNTARY 2. Connective- supports the internal structures 3. Nervous- transmit electrical impulses that control body 4. Epithelial- covers and protects body structures; lines body organs,1
-Organ,structures that perform specialized functions,1
-Body Systems,"Each body system has a common purpose to perform specialized functions Ex. Integumentary, respiratory, skeletal, muscular, nervous, digestive, cardiovascular, endocrine, circulatory, immune, urinary, reproductive",1
-Anatomic Position,"-standing erect -palms facing forward, arms at sides -feet parallel, pointing forward",1
-Superior,nearer to head,1
-Inferior,toward the feet,1
-Anterior,ventral,1
-Posterior,dorsal,1
-Medial,toward midline,1
-Lateral,away from midline,1
-Proximal,near point of attachment or origin,1
-Distal,away from point of attachment or origin,1
-Rostral,towards the nose,1
-Caudal/caudad,towards the tail,1
-Cephalad,towards the head,1
-Supine,"horizontal, face up",1
-Prone,"horizontal, face down",1
-Frontal (coronal) plane,Divided into anterior and posterior sides,1
-Sagital plane,Divided into lateral sides,1
-Transverse (horizontal) plane,Divided into superior and inferior sides,1
-Dorsal cavity,-cranial cavity -spinal cavity,1
-Ventral cavity,-thoracic cavity -diaphragm -abdominopelvic cavity,1
-Divisions of the abdomen,,1
-Quadrants of the abdomen,,1
-Function of the skeletal system,"-Formation 6 weeks-25 years -Approx. 206 bones; ligaments, tendons, joints -Framework for muscles; articulating (allowing for movement) -Protection -Produce blood cells, store minerals",1
-Structure of the skeletal system,Divided into two parts: -Axial -Appendicular,1
-Axial,-cranial bones -facial bones -chest bones -spinal column,1
-Appendicular,Appendages attach to trunk: -shoulder girdle -bones of arms and hands -pelvic girdle -bones of legs -bones of ankles and feet,1
-Axial and appendicular skeleton,,1
-Ossification,bone formation,1
-Osteoblast,progenitor cell that mature into osteocytes,1
-Osteocytes,mature bone cells,1
-Blast-,germ,1
-Cyte-,cell,1
-Parts of the long bone,-Diaphysis -Proximal and distal epiphysis -Periosteum -Endosteum -Medullary cavity,1
-Diaphysis,shaft,1
-Proximal and distal epiphysis,ends of bone,1
-Periosteum,thin membrane covering the bone,1
-Endosteum,"inner membrane layer, surrounds medullary cavity, contributes to bone growth/repair",1
-Medullary cavity,middle of the shaft and contains bone marrow,1
-Cranial bones,-8 -frontal -2 parietal (wall of the body; -al=pertaining to) -occipital (back of the head) -2 temporal -sphenoid (edge or wedge shaped; -oid=like) -ethmoid (ethmos=sieve),1
-Sutures,"fibrous membranes that join the cranial bones -sagittal, coronal/frontal, squamosal, lamboid",1
-Facial bones,"-13 bones -2 nasal- forms the bride of the nose -2 lacrimal (relating to tears) -2 zygomatic (malar bone)bone- form the cheeks; zygo= yoke, mala=cheek -2 palatine -1 vomer -1 inferior nasal concha -2 maxilla- upper jaw bone -1 mandible- lower jaw bone (mandere- to chew)",1
-Sternum,"manubrium, body, xiphoid process (sword shaped)",1
-Costae verae,true ribs 1-7,1
-Costa fluctuantes,"false ribs pairs 8,9,10",1
-Costae spuriae,"false ribs (pairs 8,9,10) AND floating ribs (pairs 11 & 12)",1
-Thoracic cage,-sternum -ribs -cartilage,1
-Spinal column,-cervical (cervix=neck) -thoracic (chest; breastplate) -lumbar (lumbus=loin) -sacral (sacer= sacred) -coccygeal (a cuckoo),1
-Appendicular Skeleton,-shoulder bones -arm and hand bones -pelvis bones -leg and feet bones,1
-Shoulder,-clavicle (collar bone) -scapula (shoulder blade),1
-Arm and hand bones,-humerus (L.shoulder) -radius -ulna -carpals (karpos=wrist) -metacarpals (beyond wrist) -phalanges (phalanx= line of soldiers; phalang/o= fingers or toes),1
-Pelvis,"-os coxae fusion of: -ilium (groin, flank) -ischium (ischion-hip) -pubis -sacrum",1
-Leg,-Femur (thigh) -Tibia (shin bone); medial malleolus (malleus=hammer) -Fibula (figibula- that which fastens); lateral malleolus -Patella (patina- shallow disk),1
-Foot,"-Talus -Tarsals (tarsos- flat surface); (cuboid, cuneiforms) -Metatarsals -Phalanges -Calcaneus (heel)",1
-Joints,"""meeting place"" between bones",1
-Synarthrosis,joint with no movement (cranial bones),1
-Amphiarthrosis,joint with little movement (vertebrae),1
-Diarthrosis or synovial,joint with free movement (knee),1
-Bursae,spaces within connective tissue filled with synovial fluid,1
-Cartilage,connective tissue that enables movement,1
-Joint movements,- Flexion vs. Extension - Pronation/Supination - Abduction/Adduction - Circumduction - Dorsiflexion/Plantar flexion - Inversion/Eversion - Rotation,1
-Disorders of the Skeletal System,-Trauma :fractures- break in the bone :sprain- tear in a ligament -Disease -Neoplasms -Joint disorders -Disorders of the spine,1
-Diseases of the Skeletal System,-Osteoporosis- loss of bone mass -Rickets- poor bone calcification due to vitamin D deficit; bow-legged -Osteomalacia- softening of the bone; compression fractures of vertebrae,1
-Neoplasms,"-Osteosarcoma- highly malignant tumor of the bone; malignant, often in children -Chondrosarcoma- cartilage tumor; more often in adults",1
-Joint disorders,"-Arthritis- inflammation of the joint -Osteoarthritis- gradual disintegration of the joint cartilage -Rheumatoid arthritis- systemic, auto-immune, inflammatory disorder; fingers, fluid accumulation",1
-Spinal disorders,"-Herniated disc- disc that protrudes into the spinal canal -Lordosis- ""swayback"" -Kyphosis- ""hunchback"" -Scoliosis- lateral curvature",1
-Diagnostic procedures,-X-ray -MRI- magnetic resonance imaging (soft tissues) -CT scan- computerized tomography (bones; lots of radiation),1
-Pharmacologic Agents,-Analgesics -Narcotics -Anti-inflammatory -NSAIDs,1
-Analgesics,relieve pain (an=without; algesia= without sensation),1
-Narcotics,strong pain relief medication (narc/o= to sleep),1
-Anti-inflammatory,reduce joint swelling,1
-NSAIDs,Nonsteroidal anti-inflammatory drugs are used to treat inflammatory response. Ex. Ibuprofen and Aleve,1
-Muscle function,-Helps maintain posture -Produces heat -Provides movement,1
+chapter,word,definition
+1,Arthr-,joint or speech
+1,Bronch-,bronchus
+1,Cardi-,heart
+1,Derm or dermat,skin
+1,Gastro-,stomach
+1,Ger or gernot,aged
+1,Hem or hemato,blood
+1,Hep or hepat,liver
+1,Neur-,nerve cell or nervous system
+1,Oste-,bone
+1,Path-,disease
+1,psych-,mind
+1,mast-,breast
+1,nat-,birth
+1,Suffixes (S),-Always comes at the end of the word -Adds meaning to the word -Not all terms have a suffix
+1,Four Functional Categories of Suffixes,"1. Describe a medical condition 2. Describe diagnostic terms, tests, or surgical procedures 3. Signify a medical specialty or specialist 4. Convert a noun to an adjective"
+1,-algia,pain
+1,-dynia,pain
+1,-emia,blood
+1,-ism,condition of
+1,-itis,inflammation
+1,-malacia,softening
+1,-megaly,enlargement
+1,-oma,tumor
+1,-osis,condition of
+1,-penia,reduction in size/quantity
+1,-plegia,paralysis
+1,-pnea,breathing
+1,-porosis,porous condition
+1,-ptosis,downward displacement
+1,-rrhage,flowing forth
+1,-rrhea,discharge
+1,-spasm,muscular contraction
+1,-edema,excessive fluid
+1,-centesis,surgical puncture
+1,-ectomy,surgical removal
+1,"-gen, -genic, -genesis","origin, producing"
+1,-gram,record
+1,-graph,device for recording
+1,-graphy,act of recording
+1,-meter,device for measuring
+1,-plasty,surgical repair
+1,-scope,device for viewing
+1,-tomy,incision
+1,-desis,surgical binding
+1,-ian,specialist
+1,-iatrics,medical specialist
+1,-iatry or -ics,medical specialty
+1,-ist,specialist in a field of study
+1,-logy,study of
+1,Converting a noun to adjective,-replace x with c (ex. appendix; appendices) -drop y & add -ic (ex. psychiatry; psychiatric hospital) -drop e & add ic (ex. arthroscope; arthroscopic surgery) -drop s (ex. pediatrics; pediatric medicine)
+1,"-ac, -al, -ar, -ia, -ic, -ory",pertaining to
+1,-cyte,cell
+1,Prefixes (P),Always comes at beginning of the word
+1,Categories of Prefixes,1. Time or speed 2. Direction 3. Position 4. Size or number
+1,"ante-, pre-",before
+1,anti-,against
+1,brady-,slow
+1,neo-,new
+1,post-,after
+1,tachy-,fast
+1,"hyper-, supra-","above, beyond normal, excessive"
+1,hypo-,"below, below normal"
+1,ab-,"away from, outside of, beyond"
+1,ad-,"toward, near to"
+1,"con-, sym-, syn-",with
+1,contra-,against
+1,dia-,"across, through"
+1,"ec-, ecto, ex-, exo-","outside, out, away from"
+1,"en-, endo-, intra-","toward, near to, within, inner"
+1,endo-,within
+1,epi-,"upon, subsequent to"
+1,extra-,beyond
+1,Infra-,inside or below
+1,Inter-,between
+1,Intra-,"inside, within"
+1,meso-,middle
+1,meta-,beyond
+1,pan-,"all, everywhere"
+1,para-,"alongside, like"
+1,retro-,"backward, behind"
+1,bi- or di-,two
+1,dipl-,twice
+1,"hemi-, semi-",half
+1,macro-,big
+1,micro-,small
+1,mono-,one
+1,olig/o,a few
+1,poly-,many
+1,quadri-,four
+1,tetra-,four
+1,tri-,three
+1,uni-,one
+1,"a-,an-","no, not, without"
+1,"anti-, contra-",against
+1,cyan-,blue
+1,dys-,"painful, difficult"
+1,Combining Form,- Contains the word root and a vowel - Vowel usually to facilitate pronunciation - The vowel is called the 'combining vowel' (CV) - Frequently the vowel is an 'o' - Combining vowel is used between two word roots - Used between a root and a suffix when the suffix begins with a consonant
+1,Singular and Plural Endings,"-Ends in ""a"", make plural by adding ""e"" to the term. Ex. vertebra->vertebrae or scapula->scapulae -Ends in ""ax"", change the ""ax"" to ""aces"". Ex. thorax->thoraces -Ends in ""is"", change the ""i"" to an ""e"" for plural. Ex. neurosis->neuroses -Ends in ""ix"" or ""ex"", change to ""ices"". Ex. cervix->cervices -Ends in ""um"", change to ""a"". Ex. bacterium->bacteria -Ends in ""us"", change to ""i"". Ex. calculus->calculi -Ends in ""y"", change to ""ies"". Ex. ovary->ovaries"
+1,Levels of Organization,1. Cellular 2. Tissue 3. Organ 4. Body Systems
+1,Cells,Basic unit of all living organisms Common elements: -cell membrane -nucleus -chromosomes -cytoplasm
+1,Tissues,1. Muscle- both VOLUNTARY and INVOLUNTARY 2. Connective- supports the internal structures 3. Nervous- transmit electrical impulses that control body 4. Epithelial- covers and protects body structures; lines body organs
+1,Organ,structures that perform specialized functions
+1,Body Systems,"Each body system has a common purpose to perform specialized functions Ex. Integumentary, respiratory, skeletal, muscular, nervous, digestive, cardiovascular, endocrine, circulatory, immune, urinary, reproductive"
+1,Anatomic Position,"-standing erect -palms facing forward, arms at sides -feet parallel, pointing forward"
+1,Superior,nearer to head
+1,Inferior,toward the feet
+1,Anterior,ventral
+1,Posterior,dorsal
+1,Medial,toward midline
+1,Lateral,away from midline
+1,Proximal,near point of attachment or origin
+1,Distal,away from point of attachment or origin
+1,Rostral,towards the nose
+1,Caudal/caudad,towards the tail
+1,Cephalad,towards the head
+1,Supine,"horizontal, face up"
+1,Prone,"horizontal, face down"
+1,Frontal (coronal) plane,Divided into anterior and posterior sides
+1,Sagital plane,Divided into lateral sides
+1,Transverse (horizontal) plane,Divided into superior and inferior sides
+1,Dorsal cavity,-cranial cavity -spinal cavity
+1,Ventral cavity,-thoracic cavity -diaphragm -abdominopelvic cavity
+1,Divisions of the abdomen,
+1,Quadrants of the abdomen,
+1,Function of the skeletal system,"-Formation 6 weeks-25 years -Approx. 206 bones; ligaments, tendons, joints -Framework for muscles; articulating (allowing for movement) -Protection -Produce blood cells, store minerals"
+1,Structure of the skeletal system,Divided into two parts: -Axial -Appendicular
+1,Axial,-cranial bones -facial bones -chest bones -spinal column
+1,Appendicular,Appendages attach to trunk: -shoulder girdle -bones of arms and hands -pelvic girdle -bones of legs -bones of ankles and feet
+1,Axial and appendicular skeleton,
+1,Ossification,bone formation
+1,Osteoblast,progenitor cell that mature into osteocytes
+1,Osteocytes,mature bone cells
+1,Blast-,germ
+1,Cyte-,cell
+1,Parts of the long bone,-Diaphysis -Proximal and distal epiphysis -Periosteum -Endosteum -Medullary cavity
+1,Diaphysis,shaft
+1,Proximal and distal epiphysis,ends of bone
+1,Periosteum,thin membrane covering the bone
+1,Endosteum,"inner membrane layer, surrounds medullary cavity, contributes to bone growth/repair"
+1,Medullary cavity,middle of the shaft and contains bone marrow
+1,Cranial bones,-8 -frontal -2 parietal (wall of the body; -al=pertaining to) -occipital (back of the head) -2 temporal -sphenoid (edge or wedge shaped; -oid=like) -ethmoid (ethmos=sieve)
+1,Sutures,"fibrous membranes that join the cranial bones -sagittal, coronal/frontal, squamosal, lamboid"
+1,Facial bones,"-13 bones -2 nasal- forms the bride of the nose -2 lacrimal (relating to tears) -2 zygomatic (malar bone)bone- form the cheeks; zygo= yoke, mala=cheek -2 palatine -1 vomer -1 inferior nasal concha -2 maxilla- upper jaw bone -1 mandible- lower jaw bone (mandere- to chew)"
+1,Sternum,"manubrium, body, xiphoid process (sword shaped)"
+1,Costae verae,true ribs 1-7
+1,Costa fluctuantes,"false ribs pairs 8,9,10"
+1,Costae spuriae,"false ribs (pairs 8,9,10) AND floating ribs (pairs 11 & 12)"
+1,Thoracic cage,-sternum -ribs -cartilage
+1,Spinal column,-cervical (cervix=neck) -thoracic (chest; breastplate) -lumbar (lumbus=loin) -sacral (sacer= sacred) -coccygeal (a cuckoo)
+1,Appendicular Skeleton,-shoulder bones -arm and hand bones -pelvis bones -leg and feet bones
+1,Shoulder,-clavicle (collar bone) -scapula (shoulder blade)
+1,Arm and hand bones,-humerus (L.shoulder) -radius -ulna -carpals (karpos=wrist) -metacarpals (beyond wrist) -phalanges (phalanx= line of soldiers; phalang/o= fingers or toes)
+1,Pelvis,"-os coxae fusion of: -ilium (groin, flank) -ischium (ischion-hip) -pubis -sacrum"
+1,Leg,-Femur (thigh) -Tibia (shin bone); medial malleolus (malleus=hammer) -Fibula (figibula- that which fastens); lateral malleolus -Patella (patina- shallow disk)
+1,Foot,"-Talus -Tarsals (tarsos- flat surface); (cuboid, cuneiforms) -Metatarsals -Phalanges -Calcaneus (heel)"
+1,Joints,"""meeting place"" between bones"
+1,Synarthrosis,joint with no movement (cranial bones)
+1,Amphiarthrosis,joint with little movement (vertebrae)
+1,Diarthrosis or synovial,joint with free movement (knee)
+1,Bursae,spaces within connective tissue filled with synovial fluid
+1,Cartilage,connective tissue that enables movement
+1,Joint movements,- Flexion vs. Extension - Pronation/Supination - Abduction/Adduction - Circumduction - Dorsiflexion/Plantar flexion - Inversion/Eversion - Rotation
+1,Disorders of the Skeletal System,-Trauma :fractures- break in the bone :sprain- tear in a ligament -Disease -Neoplasms -Joint disorders -Disorders of the spine
+1,Diseases of the Skeletal System,-Osteoporosis- loss of bone mass -Rickets- poor bone calcification due to vitamin D deficit; bow-legged -Osteomalacia- softening of the bone; compression fractures of vertebrae
+1,Neoplasms,"-Osteosarcoma- highly malignant tumor of the bone; malignant, often in children -Chondrosarcoma- cartilage tumor; more often in adults"
+1,Joint disorders,"-Arthritis- inflammation of the joint -Osteoarthritis- gradual disintegration of the joint cartilage -Rheumatoid arthritis- systemic, auto-immune, inflammatory disorder; fingers, fluid accumulation"
+1,Spinal disorders,"-Herniated disc- disc that protrudes into the spinal canal -Lordosis- ""swayback"" -Kyphosis- ""hunchback"" -Scoliosis- lateral curvature"
+1,Diagnostic procedures,-X-ray -MRI- magnetic resonance imaging (soft tissues) -CT scan- computerized tomography (bones; lots of radiation)
+1,Pharmacologic Agents,-Analgesics -Narcotics -Anti-inflammatory -NSAIDs
+1,Analgesics,relieve pain (an=without; algesia= without sensation)
+1,Narcotics,strong pain relief medication (narc/o= to sleep)
+1,Anti-inflammatory,reduce joint swelling
+1,NSAIDs,Nonsteroidal anti-inflammatory drugs are used to treat inflammatory response. Ex. Ibuprofen and Aleve
+1,Muscle function,-Helps maintain posture -Produces heat -Provides movement
