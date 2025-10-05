@@ -11,6 +11,95 @@ let cards = [];
 let currentIndex = 0;
 let showingDefinition = false;
 
+function categorizeCard(card) {
+  const trimmedWord = (card.word || '').trim();
+  const lowerWord = trimmedWord.toLowerCase();
+  let cardType = 'word';
+  let affixValue = '';
+
+  if (trimmedWord.startsWith('-') && trimmedWord.length > 1) {
+    cardType = 'suffix';
+    affixValue = trimmedWord.slice(1);
+  } else if (trimmedWord.endsWith('-') && trimmedWord.length > 1) {
+    cardType = 'prefix';
+    affixValue = trimmedWord.slice(0, -1);
+  }
+
+  const displayPrefix =
+    cardType === 'prefix' ? 'Prefix' : cardType === 'suffix' ? 'Suffix' : 'Word';
+
+  return {
+    ...card,
+    word: trimmedWord,
+    cardType,
+    affixValue,
+    normalizedWord: lowerWord,
+    displayText: `${displayPrefix}: ${trimmedWord}`
+  };
+}
+
+function cardMatchesAffix(affixCard, wordCard) {
+  if (!affixCard.affixValue) {
+    return false;
+  }
+
+  const search = affixCard.affixValue.toLowerCase();
+  if (!search) {
+    return false;
+  }
+
+  return wordCard.normalizedWord.includes(search);
+}
+
+function arrangeAffixPairs(shuffledCards) {
+  const result = [];
+  const usedWordCards = new Set();
+
+  for (const card of shuffledCards) {
+    if (card.cardType === 'prefix' || card.cardType === 'suffix') {
+      result.push(card);
+      const match = shuffledCards.find(
+        (candidate) =>
+          candidate.cardType === 'word' &&
+          !usedWordCards.has(candidate) &&
+          cardMatchesAffix(card, candidate)
+      );
+
+      if (match) {
+        result.push(match);
+        usedWordCards.add(match);
+      }
+    }
+  }
+
+  for (const card of shuffledCards) {
+    if (card.cardType === 'word' && !usedWordCards.has(card)) {
+      result.push(card);
+      usedWordCards.add(card);
+    }
+  }
+
+  const seenCards = new Set(result);
+
+  for (const card of shuffledCards) {
+    if (!seenCards.has(card)) {
+      result.push(card);
+    }
+  }
+
+  return result;
+}
+
+function processCards(items) {
+  if (!items.length) {
+    return [];
+  }
+
+  const categorized = items.map(categorizeCard);
+  const shuffled = shuffleCards(categorized);
+  return arrangeAffixPairs(shuffled);
+}
+
 function shuffleCards(items) {
   const shuffled = [...items];
   for (let i = shuffled.length - 1; i > 0; i -= 1) {
@@ -49,7 +138,7 @@ function populateSelect(select, items, placeholder) {
 
 function updateCard() {
   if (!cards.length) {
-    cardLabel.textContent = 'Word';
+    cardLabel.textContent = 'Term';
     cardContent.textContent = 'No cards available.';
     toggleDefinitionButton.disabled = true;
     prevButton.disabled = true;
@@ -59,10 +148,12 @@ function updateCard() {
   }
 
   const card = cards[currentIndex];
-  cardLabel.textContent = showingDefinition ? 'Definition' : 'Word';
-  cardContent.textContent = showingDefinition ? card.definition : card.word;
+  cardLabel.textContent = showingDefinition ? 'Definition' : 'Term';
+  cardContent.textContent = showingDefinition
+    ? card.definition || 'No definition available.'
+    : card.displayText;
   toggleDefinitionButton.textContent = showingDefinition
-    ? 'Show Word'
+    ? 'Show Term Details'
     : 'Show Definition';
   toggleDefinitionButton.disabled = false;
   prevButton.disabled = currentIndex === 0;
@@ -71,7 +162,7 @@ function updateCard() {
 }
 
 function resetState(newCards) {
-  cards = shuffleCards(newCards);
+  cards = processCards(newCards);
   currentIndex = 0;
   showingDefinition = false;
   updateCard();
@@ -145,7 +236,6 @@ async function initialize() {
       } else {
         chapterSelect.value = '';
       }
-      cards = data;
       if (chapterSelect.value) {
         await loadCards();
       } else {
